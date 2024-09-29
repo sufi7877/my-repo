@@ -10,6 +10,7 @@ const Services = () => {
   console.log(services);
 
   return (
+    
     <Wrapper className="section">
       <h2 className="common-heading">Our Services</h2>
       <div className="container grid grid-three-column">
